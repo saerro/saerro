@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saerro" alt="saerro" /></a> </p>
 
-- 🔭 I’m currently working on **My personal website and my Rocket**
+- 🔭 I’m currently working on **my personal website and my rocket**
 
 - 🌱 I’m currently learning **ML, Physics, Calculus**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **surajmvr14@gmail.com**
 
-- ⚡ Fun fact **I think I'm good at Valorant**
+- ⚡ Fun fact **I think I'm good at Valorant!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
